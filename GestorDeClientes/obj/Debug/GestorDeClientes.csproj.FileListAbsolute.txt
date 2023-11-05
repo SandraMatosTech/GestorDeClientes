@@ -1,0 +1,7 @@
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.exe.config
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.exe
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeClientes\GestorDeClientes\bin\Debug\GestorDeClientes.pdb
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.AssemblyReference.cache
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.csproj.CoreCompileInputs.cache
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.exe
+C:\Users\matos\Desktop\Coisas\Cursos\UDEMY\C#\GestorDeClientes\GestorDeClientes\obj\Debug\GestorDeClientes.pdb
