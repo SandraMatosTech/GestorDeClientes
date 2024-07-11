@@ -23,9 +23,15 @@ O Gestor de Clientes é uma aplicação para gerenciar informações de clientes
 1. Clone o repositório:
    ```sh
    git clone git@github.com:SandraMatosTech/portif-lio.git
+   
 2. Navegue  ate o diretório do projeto: cd portif-lio/GestorDeClientes
+   
 3.Restaure a dependencia do projeto: dotnet restore
+
 4.Atualize a string de conexão com o banco de dados no arquivo 'appsettings.json'
+
 5.Aplique as migrações do Entity Framework para criar o banco de dados:dotnet ef database update
+
 6.Execute a aplicação: dotnet run
+
 7.Abra seu navegador e acesse https://localhost:5001 para ver a aplicação em execução.
